@@ -1,0 +1,15 @@
+{
+    "name": "Gucci Shoes",
+    "description": ", price=7000 rupees",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStcyblnMAL2hU5nrovY00cFPgK3UUPkjmhPqxDrMDC_g&s",
+    "attributes": [
+        {
+            "trait_type": "Trait Name",
+            "value": "Trait Value"
+        },
+        {
+            "trait_type": "Trait Name",
+            "value": "Trait Value"
+        }
+    ]
+}
