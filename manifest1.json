@@ -1,0 +1,15 @@
+{
+    "name": "Gucci Shoes",
+    "description": "Gucci Thrifted Shoes, price=7000 rupees",
+    "image": "https://i.redd.it/fi8bx6sgdjs51.jpg",
+    "attributes": [
+        {
+            "trait_type": "Vintage",
+            "value": "1000"
+        },
+        {
+            "trait_type": "Trait Name",
+            "value": "Trait Value"
+        }
+    ]
+}
