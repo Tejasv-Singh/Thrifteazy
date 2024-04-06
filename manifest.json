@@ -1,11 +1,11 @@
 {
-    "name": "Gucci Shoes",
-    "description": "Gucci Thrifted Shoes, price=7000 rupees",
+    "name": "Top",
+    "description": "Versace top, price=9000 rupees",
     "image": "https://5.imimg.com/data5/ANDROID/Default/2021/4/CJ/JB/WY/93548406/product.jpg",
     "attributes": [
         {
-            "trait_type": "Trait Name",
-            "value": "Trait Value"
+            "trait_type": "TOP",
+            "value": "9000"
         },
         {
             "trait_type": "Trait Name",
