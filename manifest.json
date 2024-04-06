@@ -1,7 +1,7 @@
 {
     "name": "Gucci Shoes",
     "description": "Gucci Thrifted Shoes, price=7000 rupees",
-    "image": "https://5.imimg.com/data5/ANDROID/Default/2021/4/CJ/JB/WY/93548406/product.jpg"
+    "image": "https://5.imimg.com/data5/ANDROID/Default/2021/4/CJ/JB/WY/93548406/product.jpg",
     "attributes": [
         {
             "trait_type": "Trait Name",
