@@ -4,12 +4,9 @@
     "image": "https://5.imimg.com/data5/ANDROID/Default/2021/4/CJ/JB/WY/93548406/product.jpg",
     "attributes": [
         {
-            "trait_type": "TOP",
+            "trait_type": "Vintage",
             "value": "9000"
         },
-        {
-            "trait_type": "Trait Name",
-            "value": "Trait Value"
-        }
+        
     ]
 }
